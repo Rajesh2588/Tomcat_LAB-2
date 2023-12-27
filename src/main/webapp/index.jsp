@@ -7,7 +7,7 @@
 <img src="boxfuse.png">
 
 
-<h2>rajesh fe jenkins</h2>
+<h2>rajsh fe jenkins</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
